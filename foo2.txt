@@ -1,0 +1,4 @@
+date: 06.02.2022, time: 17:44:27
+function name: foo2
+inputs = (), {'a': 10, 'b': 33}
+result = 330
