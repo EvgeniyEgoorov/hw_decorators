@@ -1,0 +1,4 @@
+date: 10.02.2022, time: 22:52:16
+function name: summator
+inputs = (3, 5), {}
+result = 8
